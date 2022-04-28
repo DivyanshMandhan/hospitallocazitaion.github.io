@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "graph database search utility",
   "main": "app.js",
-  "homepage": "https://hospitallocazitaion.github.io",
+  "homepage": "https://divyanshmandhan.github.io/hospitallocazitaion.github.io/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
